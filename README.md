@@ -1,7 +1,3 @@
-<p align="center"> 
-  <img src="https://drive.google.com/uc?export=view&id=1jWzALswetm3z3O2WyWHUdofK0zFjgFiv" alt="Logo NeuroStack" width="120" />
-</p>
-
 <h1 align="center">NeuroStack Tecnologia</h1>
 <p align="center"><em>O futuro começa na decisão de hoje.</em></p>
 
